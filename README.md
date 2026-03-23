@@ -86,4 +86,4 @@ Esta análise é útil para:
 
 MIT License 
 
-Citation: SOUZA, J.L. (2026) Identificador de Ruas Sem Saída (Dead-End Streets) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19133888
+Citation: SOUZA, J.L. (2026) Identificador de Ruas Sem Saída (Dead-End Streets) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19133887
