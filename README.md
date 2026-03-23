@@ -2,7 +2,7 @@
 
 **Juliana Lombard Souza**
 
-Este algoritmo identifica ruas sem saída e trechos isolados em uma rede de linhas (como uma rede viária). Ele analisa a topologia da rede para encontrar todos os segmentos de linha que terminam em um "beco" sem continuidade, gerando um novo shapefile contendo apenas esses trechos específicos.
+Este algoritmo identifica ruas sem saída em uma rede de linhas (como uma rede viária). Ele analisa a topologia da rede para encontrar todos os segmentos de linha que terminam em um "beco" sem continuidade, gerando um novo shapefile contendo apenas esses trechos específicos.
 
 ## Funcionalidades
 
@@ -63,7 +63,7 @@ python ruas_sem_saida.py
 
 Após a execução, verifique a pasta `output`. Você encontrará:
 
-*   `rede_teste_ruas_sem_saida_lin.shp`: Um novo shapefile que contém apenas os trechos de linha que foram identificados como ruas sem saída ou trechos isolados. Você pode carregar este arquivo em um SIG (como QGIS) para visualizá-los sobre a rede original.
+*   `rede_teste_ruas_sem_saida_lin.shp`: Um novo shapefile que contém apenas os trechos de linha que foram identificados como ruas sem saída. Você pode carregar este arquivo em um SIG (como QGIS) para visualizá-los sobre a rede original.
 
 ---
 
